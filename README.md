@@ -17,6 +17,10 @@
     ╚═══════════════════════════════════════════════════════════╝
 ```
 
+
+<img width="1350" height="1800" alt="0e69a053-5537-377b-831c-17c151b952b8" src="https://github.com/user-attachments/assets/e8c3f540-c307-46b9-9d10-809e92d18132" />
+
+
 ## 🎯 Caratteristiche Principali
 
 ```
@@ -59,7 +63,7 @@ unscriptorium/
 ├── 📁 notebooks-raw/               ← Sorgenti notebook Kindle
 │   ├── [105 cartelle UUID]/
 │   │   └── nbk                     (file binario proprietario)
-│   └── AGENTS.md                   (reference documentation)
+│   
 │
 ├── 📦 kindle_notes/                ← Package Python production-ready
 │   ├── __init__.py                 (public API exports)
